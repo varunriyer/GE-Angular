@@ -1,1 +1,1 @@
-# Angular
+# JS Practice
